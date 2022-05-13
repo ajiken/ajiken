@@ -1,7 +1,6 @@
 # ajiken
-- 👋 Hi, I’m @ajiken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
+- university student
+- 
 
 <!---
 ajiken/ajiken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
