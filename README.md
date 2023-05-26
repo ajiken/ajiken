@@ -1,5 +1,3 @@
-<h1>Hi 👋, I'm ajiken</h1>
-
 🌱 I’m currently learning **Machine learning, Fuzzy logic**  
 ⚡ Fun fact **My motivation comes from beer🍺**
 
